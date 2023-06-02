@@ -1,0 +1,11 @@
+The program dectects the number of cards that are in an image, and then prints out the result in the terminal. 
+It dose not have AI built within it. Images that contain overlapping cards, those overlapping cards will be dectected as one card instead of two cards. 
+This program was delvolped using the PyCharm IDE. It is highly recummended to use PyCharm when running this program, as the python package/dependencies installation process is easier in here.
+All Instructions on how to run the program will be done assuming that you are using PyCharm.
+
+HOW TO RUN THE PROGRAM
+ 1) Create a new python project in PyCharm
+ 2) Install/add the opencv-python, and numpy packages.
+ 3) Change Line 9 to make the varible "name_file" equal to the absoulte path directory to the image you would like to analyze, Some basic sample images have been provided within the data folder
+ 4) Click the run button, and click the space button where ever you want to progress through the program. Results will be printed to the terminal
+ 
